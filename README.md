@@ -8,9 +8,9 @@
     <img src="Pics/shape.jpg" alt="Arbitrary Shape" style="width: 350px;">
     <h2>Triangulation Visualization </h2>
     <p>Upon running the code, the triangulation of the given shape would be a series of interconnected triangles that approximate the original shape's boundary. These triangles would form a mesh suitable for further CFD calculations.</p>
-    <p>Here's a video demonstrating the triangulation process for a similar shape:</p>
+    <p>Here's a GIF demonstrating the triangulation process for a similar shape:</p>
     <video width="560" height="315" controls>
-    <source src="Pics/AFM Triangulation.mp4" type="video/mp4">
+    <source src="Pics/AFM Triangulation.gif" alt="Triangulation Process (GIF)" style="width: 560px;">
     Your browser does not support the video tag.
     </video>
     <h2>Key Points</h2>
