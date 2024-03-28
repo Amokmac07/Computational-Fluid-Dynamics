@@ -11,7 +11,8 @@
     <p>Here's a GIF demonstrating the triangulation process for a similar shape:</p>
     <video width="560" height="315" controls>
     <source src="Pics/AFM Triangulation.gif" alt="Triangulation Process (GIF)" style="width: 560px;">
-    https://github.com/Amokmac07/Computational-Fluid-Dynamics/assets/160387852/9c4c8d4f-7870-4329-8fe0-1850aac6735c
+    ![AFM Triangulation](https://github.com/Amokmac07/Computational-Fluid-Dynamics/assets/160387852/509d8c19-0424-4da6-96fa-af8fac8f0eb8)
+
 
     Your browser does not support the video tag.
     </video>
