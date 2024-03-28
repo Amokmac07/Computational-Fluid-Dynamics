@@ -8,7 +8,7 @@ For example, consider an arbitrary shape like this:
 
 Arbitrary Shape: Image of Arbitrary Shape: 
 
-![shape](https://github.com/Amokmac07/Computational-Fluid-Dynamics/assets/160387852/f8f83c7e-ff70-47a3-9fac-2fde23d059a6)
+<img src="Pics/shape.jpg" alt="Arbitrary Shape" style="width: 350px;">
 
 ## Triangulation Visualization
 Upon running the code, the triangulation of the given shape would be a series of interconnected triangles that approximate the original shape's boundary. These triangles form a mesh suitable for further CFD calculations.
