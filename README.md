@@ -6,8 +6,6 @@ The project involved developing code to perform triangulation on any 2D shape us
 
 For example, consider an arbitrary shape like this:
 
-Arbitrary Shape: Image of Arbitrary Shape: 
-
 <img src="Pics/shape.jpg" alt="Arbitrary Shape" style="width: 350px;">
 
 ## Triangulation Visualization
@@ -17,6 +15,6 @@ Upon running the code, the triangulation of the given shape would be a series of
  
 
 ## Key Points
-The advancing front method provides an efficient approach for 2D triangulation.
-The code requires a small number of coordinates to define the shape.
-The resulting triangulation mesh serves as the foundation for CFD simulations.
+- The advancing front method provides an efficient approach for 2D triangulation.
+- The code requires a small number of coordinates to define the shape.
+- The resulting triangulation mesh serves as the foundation for CFD simulations.
