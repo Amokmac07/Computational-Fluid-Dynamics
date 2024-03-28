@@ -7,6 +7,7 @@ The project involved developing code to perform triangulation on any 2D shape us
 For example, consider an arbitrary shape like this:
 
 Arbitrary Shape: Image of Arbitrary Shape: 
+
 https://github.com/Amokmac07/Computational-Fluid-Dynamics/assets/160387852/f8f83c7e-ff70-47a3-9fac-2fde23d059a6
 
 ## Triangulation Visualization
