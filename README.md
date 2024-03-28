@@ -9,13 +9,14 @@
     <h2>Triangulation Visualization </h2>
     <p>Upon running the code, the triangulation of the given shape would be a series of interconnected triangles that approximate the original shape's boundary. These triangles would form a mesh suitable for further CFD calculations.</p>
     <p>Here's a GIF demonstrating the triangulation process for a similar shape:</p>
-  
+</body> 
+https://github.com/Amokmac07/Computational-Fluid-Dynamics/assets/160387852/bee25fe9-cbc7-40f8-90a5-146c0287a33f
+
+<body>  
     <h2>Key Points</h2>
     <ul>
         <li>The advancing front method is an efficient algorithm for 2D triangulation.</li>
         <li>The code requires a minimal set of coordinates to define the shape.</li>
         <li>The resulting triangulation mesh is useful for CFD simulations.</li>
     </ul>
-
-
-</body>
+</body> 
