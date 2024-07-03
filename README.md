@@ -1,6 +1,6 @@
-# Computational Fluid Dynamics Project: 2D Triangulation
- > This course project explores the application of Computational Fluid Dynamics (CFD) techniques, specifically focusing on triangulation using the advancing front method for 2D shapes.
-
+# Part 1 : 2D Triangulation using AFM and Delaunay Triangulation
+    This course project explores the application of Computational Fluid Dynamics (CFD) techniques, specifically focusing on triangulation using the advancing front method for 2D shapes along with delaunay Triangulation .
+> Both of these techniques are unstructured grid generation techniques
 ## Triangulation of Arbitrary Shapes
 The project involved developing code to perform triangulation on any 2D shape using the advancing front method. The code requires only a minimal set of coordinates to define the shape's boundary.
 
@@ -34,3 +34,12 @@ Upon running the code, the triangulation of the given shape would be a series of
 - The advancing front method provides an efficient approach for 2D triangulation.
 - The code requires a small number of coordinates to define the shape.
 - The resulting triangulation mesh serves as the foundation for CFD simulations.
+
+
+# Part 2 : Triangulation using Algebraic Transfinite Interpolation 
+    Algebraic Tranfinite Interpolation is a type of structured grid approach for triangulation .  
+
+The shape under consideration is as follows
+   <img src="Pics/pic_4.jpeg" alt="Arbitrary Shape" style="width: 350px;">
+   
+## 
