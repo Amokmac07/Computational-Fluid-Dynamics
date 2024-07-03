@@ -8,6 +8,13 @@ For example, consider an arbitrary shape like this:
 
 <img src="Pics/shape.jpg" alt="Arbitrary Shape" style="width: 350px;">
 
+## Advancing Front Method and Delaunay Triangulation Implementation 
+(*Refer to the file Final_Call.m which serves as the main file where all the functions are called.*)
+- Begin by defining the coordinates of the boundary points (*done in anticlockwise manner in this project*)
+- Specify n as the number of triangulations 
+- Next we proceed with generation of continous boundary from the above available discrete points on the boundary by calling the function *boundary_generation.m* 
+- 
+
 ## Triangulation Visualization
 Upon running the code, the triangulation of the given shape would be a series of interconnected triangles that approximate the original shape's boundary. These triangles form a mesh suitable for further CFD calculations.
  
