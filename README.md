@@ -29,6 +29,7 @@ Upon running the code, the triangulation of the given shape would be a series of
  
 - Using Delaunay Triangulation
 <img src="Pics/pic_3.jpg" alt="Arbitrary Shape" style="width: 350px;">
+
 ## Key Points
 - The advancing front method provides an efficient approach for 2D triangulation.
 - The code requires a small number of coordinates to define the shape.
