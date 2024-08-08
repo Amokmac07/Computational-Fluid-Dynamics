@@ -1,4 +1,6 @@
 # Part 1 : 2D Triangulation using AFM and Delaunay Triangulation
+>Part 1 done with teammate [Kelvin Xavier](https://www.linkedin.com/in/kelvin-xavier-m-077403217?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bf24yXGpGQuS56dzwKK7CZQ%3D%3D)
+
   This course project explores the application of Computational Fluid Dynamics (CFD) techniques, specifically focusing on triangulation using the advancing front method for 2D shapes along with delaunay Triangulation .
 > Both of these techniques are unstructured grid generation techniques
 ## Triangulation of Arbitrary Shapes
